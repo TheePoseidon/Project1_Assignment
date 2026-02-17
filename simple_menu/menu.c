@@ -4,7 +4,7 @@ int main(void)
 {
 	     int choice;
 	         char *fruits[] = {"Apple", "Banana", "Mango"};
-		     for (;;)  // 
+		     for (;;) 
 			       //     {
 			       //             printf("\n1. Apple\n2. Banana\n3. Mango\n4. Exit\n");
 			       //                     printf("Choose your favorite fruit: ");
