@@ -2,7 +2,7 @@
 
 
 ## Author
-Ngugi JameS
+Ngugi James
 ## Project Overview
 This repository contains C programs demonstrating various programming concepts such as functions, recursion, and basic I/O operations. The programs are organized by functionality and showcase good coding practices in C.
 
