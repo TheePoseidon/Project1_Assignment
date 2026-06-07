@@ -26,3 +26,12 @@ Language compilers and interpreters
 | ------- | ------- |
 | Violates C language rules | Program compiles but produces incorrect results |
 | Detected by compiler | Usually detected during testing |
+
+# Stages of compilation
+
+| Stage | description |
+| --- | ---- |
+| Preprocessing | Expands macros and header files |
+| Compilation | Converts C code to assembly |
+| Assembly | Converts assembly to machine code |
+| Linking | Combines object files and libraries |
