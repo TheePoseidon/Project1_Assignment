@@ -25,3 +25,4 @@ Language compilers and interpreters
 | Syntax error | Semantic errors |
 | ------- | ------- |
 | Violates C language rules | Program compiles but produces incorrect results |
+| Detected by compiler | Usually detected during testing |
