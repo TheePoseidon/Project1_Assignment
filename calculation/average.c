@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main () {
 	float num1 = 20.0;
 	float num2 = 45.0;
