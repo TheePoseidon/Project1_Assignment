@@ -2,7 +2,7 @@
 
 
 ## Author
-Ngugi JameS
+Ngugi James
 ## Project Overview
 This repository contains C programs demonstrating various programming concepts such as functions, recursion, and basic I/O operations. The programs are organized by functionality and showcase good coding practices in C.
 
@@ -16,16 +16,3 @@ This repository contains C programs demonstrating various programming concepts s
 
 ---
 
-## Example Programs
-1. **Average of Two Numbers**  
-   - Calculates the average of two user-input numbers.
-
-2. **Array Operations with Recursion**  
-   - Performs tasks on arrays such as sum, print, and factorial calculation using recursion.
-
----
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
